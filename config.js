@@ -10,7 +10,7 @@ config = {
     // When running Ghost in the wild, use the production environment
     // Configure your URL and mail settings here
     production: {
-        url: 'http://wyndham-blog.azurewebsites.net',
+        url: 'http://wyndhamhudson.azurewebsites.net',
         mail: {},
         database: {
             client: 'sqlite3',
